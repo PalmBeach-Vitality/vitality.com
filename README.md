@@ -21,7 +21,7 @@ Premium American-made peptides for researchers, clinics, and B2B brands.
 - Clean, clinical, trustworthy aesthetic
 - Hero with "Precision. Purity. [Brand] Made."
 - Featured compounds cards (BPC-157, Semaglutide, Semax, etc.)
-- Why Us stats (99%+ purity, USA made, COA, B2B)
+- Why Us stats (99% purity, USA made, COA, B2B)
 - Research library teaser
 - Wholesale partner section
 - Mailing list signup
