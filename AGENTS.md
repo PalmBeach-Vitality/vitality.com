@@ -11,6 +11,12 @@ This repo is **only** `www.palmbeach-vitality.com` (`PalmBeach-Vitality/pep`).
 - If a request is clearly for `.store` / the `store` repo, refuse and tell the user to use the store agent. Do not apply `.store` WooCommerce, n8n reel-studio, or commerce-kit work here by mistake.
 - Individual-purchase CTAs on `.com` may link to matching `.store` SKUs. That is a link, not a license to edit the other repo.
 
+## Email
+
+- Salvatore does **not** use MailPoet. Do not diagnose send failures as MailPoet, and do not turn it on or recommend it.
+- Welcome notes and Lab Notes go out through **n8n**, from Gmail as `sales@palmbeach-vitality.com`.
+- A status column still named `mailpoet` on an old WordPress email-list export is a leftover field name. It is not the sending system.
+
 ```mermaid
 flowchart LR
   subgraph keep [Keep separate]
