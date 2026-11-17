@@ -1,0 +1,19 @@
+.DS_Store
+Thumbs.db
+
+# Secrets and local env
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.key
+id_rsa
+id_ed25519
+credentials.json
+service-account*.json
+
+# Editor
+.idea/
+.vscode/
+*.swp
